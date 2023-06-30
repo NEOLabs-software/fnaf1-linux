@@ -1,0 +1,8 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Terminal=false
+Exec=/usr/bin/fnaf1
+Name=Five Nights At Freddy's
+Icon=/usr/share/fnaf1/icons/icon.png
