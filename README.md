@@ -4,7 +4,7 @@
 
 fnaf1-linux is a port of fnaf on html code, launched by electron, and controled using npm.
 
-this port is not actually coded by me, the original link is [here](https://g.vseigru.net/scratch/app/?id=217819833&amp;turbo=false)
+this port is not actually coded by me, it is made using github pages. all i did was import it and make it a desktop app using electron and npm. the og link is [here](https://github.com/sussygamedeveloper/FNAF1)
 
 ## install
 
