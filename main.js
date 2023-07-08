@@ -4,13 +4,15 @@ const fs = require('fs');
 
 function createWindow () {
 	const win = new BrowserWindow({
-		width: 768,
-		height: 560,
-    frame: false,
+		width: 900,
+		height: 1000,
+    frame: true,
 		webPreferences: {
 			preload: path.join(__dirname, 'preload.js')
 		}
 	});
+	win.maximize();
+
 
 	ipcMain.handle('create-file', (req, data) => {
 		if (!data || !data.title || !data.content) return false;
