@@ -1,23 +1,23 @@
-# Five Night At Freddy's for linux
+# Five Nights At Freddy's for Linux
 
-> this is made using electron and node
+> This is made using electron and node
 
-fnaf1-linux is a port of fnaf on html code, launched by electron, and controled using npm.
+fnaf1-Linux is a port of fnaf on HTML code, launched by electron, and controlled using npm.
 
-this port is not actually coded by me, it is made using github pages. all i did was import it and make it a desktop app using electron and npm. the og link is [here](https://github.com/sussygamedeveloper/FNAF1)
+I do not actually code this port, it is made using GitHub pages. all I did was import it and make it a desktop app using Electron and npm. the og link is [here](https://github.com/sussygamedeveloper/FNAF1)
 
 ## install
 
 the installation process is simple
 
 1. clone the repository
-2. install app
+2. install the app
 ```
 npm install
 ```
 
-> or you can run
-```npm i fnaf1-linux```
+> Or you can run
+```npm i fnaf1-Linux``
 
  **and after that, fnaf should be installed**
 
