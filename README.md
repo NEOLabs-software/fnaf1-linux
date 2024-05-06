@@ -2,6 +2,8 @@
 
 ### IMPORTANT: no longer maintained
 
+and even worse, npm install process is weird, so dont use it
+
 > This is made using electron and node
 
 fnaf1-Linux is a port of fnaf on HTML code, launched by electron, and controlled using npm.
